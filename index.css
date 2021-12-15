@@ -66,3 +66,12 @@ span {
 	width: 100px;
 	height: 100px;
 }
+
+#name {
+	width: 400px;
+	margin-left: 20px;
+	margin-top: 10px;
+	font-size: 40px;
+	color: #9E2C24;
+	border-bottom: #9E2C24 3px solid;
+}
